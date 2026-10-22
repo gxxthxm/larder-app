@@ -1,0 +1,2673 @@
+[
+  {
+    "id": "palak-paneer",
+    "title": "Palak paneer",
+    "emoji": "🥬",
+    "minutes": 35,
+    "difficulty": "Medium",
+    "tags": [
+      "Vegetarian"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "spinach",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "paneer",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.15,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.2,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "ginger",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "green-chilli",
+        "amount": 0.3,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "cream",
+        "amount": 0.5,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "cumin",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "garam-masala",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.02,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Blanch the spinach for 2 minutes, then plunge into cold water and blend smooth with the green chillies.",
+      "Heat oil, crackle the cumin, then sauté chopped onion, ginger and garlic until golden.",
+      "Add chopped tomatoes and cook down until jammy.",
+      "Stir in the spinach purée and simmer for 5 minutes; season with salt and garam masala.",
+      "Fold in cubed paneer and a swirl of cream. Warm through and serve with roti or rice."
+    ]
+  },
+  {
+    "id": "paneer-bhurji",
+    "title": "Paneer bhurji",
+    "emoji": "🧀",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "paneer",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.15,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "green-chilli",
+        "amount": 0.2,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "turmeric",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "coriander",
+        "amount": 0.3,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.015,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Crumble the paneer with your fingers.",
+      "Sauté chopped onion and green chilli in oil until soft.",
+      "Add chopped tomato, turmeric and salt; cook for 3 minutes.",
+      "Tip in the paneer, toss for 2 minutes and finish with coriander. Great in a roll or with toast."
+    ]
+  },
+  {
+    "id": "tomato-rice",
+    "title": "Tomato rice",
+    "emoji": "🍅",
+    "minutes": 25,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "One-pot"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "rice",
+        "amount": 0.2,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.3,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "mustard-seeds",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "curry-leaves",
+        "amount": 0.3,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "turmeric",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "chilli-powder",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.02,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 0.4,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Rinse the rice and soak for 10 minutes.",
+      "Crackle mustard seeds and curry leaves in oil, then add sliced onion.",
+      "Add chopped tomatoes, turmeric, chilli powder and salt; cook until soft.",
+      "Stir in rice and water, cover and cook on low for 12 minutes. Rest 5 minutes and fluff."
+    ]
+  },
+  {
+    "id": "egg-bhurji",
+    "title": "Egg bhurji",
+    "emoji": "🍳",
+    "minutes": 12,
+    "difficulty": "Easy",
+    "tags": [
+      "Quick",
+      "Egg"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "eggs",
+        "amount": 4,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "green-chilli",
+        "amount": 0.2,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "turmeric",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "coriander",
+        "amount": 0.3,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "butter",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.01,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.005,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Sauté onion and green chilli in oil or butter.",
+      "Add tomato, turmeric and salt; cook for 2 minutes.",
+      "Pour in beaten eggs and scramble gently over low heat.",
+      "Finish with coriander; serve with pav or toast."
+    ]
+  },
+  {
+    "id": "dal-tadka",
+    "title": "Dal tadka",
+    "emoji": "🫘",
+    "minutes": 35,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "One-pot"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "toor-dal",
+        "amount": 0.2,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.15,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "green-chilli",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "cumin",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "turmeric",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "ghee",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 0.8,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Pressure-cook the dal with turmeric, salt and water for 3 whistles.",
+      "In a pan, heat ghee and crackle cumin; add garlic, onion and chilli.",
+      "Add tomato and cook until soft.",
+      "Pour the tadka over the dal, simmer for 5 minutes and adjust the thickness with water."
+    ]
+  },
+  {
+    "id": "aloo-paratha",
+    "title": "Aloo paratha",
+    "emoji": "🫓",
+    "minutes": 40,
+    "difficulty": "Medium",
+    "tags": [
+      "Vegetarian"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "atta",
+        "amount": 0.3,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "potato",
+        "amount": 0.3,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "green-chilli",
+        "amount": 0.2,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "coriander",
+        "amount": 0.3,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "butter",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "cumin",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.02,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 0.15,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Knead the atta with water and a pinch of salt into a soft dough; rest 15 minutes.",
+      "Boil and mash the potatoes with chilli, coriander, cumin and salt.",
+      "Stuff a ball of dough with the filling, seal and roll out gently.",
+      "Cook on a hot tawa with a little oil or butter until golden on both sides."
+    ]
+  },
+  {
+    "id": "spinach-frittata",
+    "title": "Spinach & mushroom frittata",
+    "emoji": "🍳",
+    "minutes": 20,
+    "difficulty": "Easy",
+    "tags": [
+      "Quick",
+      "Egg"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "eggs",
+        "amount": 5,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "spinach",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "mushroom",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "cheese-slices",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.01,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.005,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "black-pepper",
+        "amount": 0.05,
+        "unit": "pack"
+      }
+    ],
+    "steps": [
+      "Heat the grill. Sauté onion and mushrooms in an ovenproof pan.",
+      "Add spinach and wilt for a minute.",
+      "Pour in eggs beaten with salt and pepper; cook on low until the edges set.",
+      "Top with cheese and grill for 3–4 minutes until puffed and golden."
+    ]
+  },
+  {
+    "id": "grilled-sandwich",
+    "title": "Bombay grilled sandwich",
+    "emoji": "🥪",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "bread",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "cucumber",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "butter",
+        "amount": 0.1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "cheese-slices",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "green-chutney",
+        "amount": 0.3,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "potato",
+        "amount": 0.1,
+        "unit": "kg",
+        "optional": true
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.002,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Butter the bread and spread chutney if you have it.",
+      "Layer sliced cucumber, tomato and cheese; season with salt.",
+      "Grill or toast in a pan until crisp and golden. Slice and serve hot."
+    ]
+  },
+  {
+    "id": "chicken-stir-fry",
+    "title": "Chicken & pepper stir-fry",
+    "emoji": "🥡",
+    "minutes": 20,
+    "difficulty": "Easy",
+    "tags": [
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "chicken-thighs",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "capsicum",
+        "amount": 2,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "soy-sauce",
+        "amount": 0.1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "spring-onion",
+        "amount": 0.5,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "chilli-sauce",
+        "amount": 0.1,
+        "unit": "pcs",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.02,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.005,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Slice chicken into strips and season lightly.",
+      "Stir-fry over high heat until browned; set aside.",
+      "Fry garlic, onion and capsicum for 2 minutes so they stay crunchy.",
+      "Return chicken, add soy and chilli sauce, toss and finish with spring onions."
+    ]
+  },
+  {
+    "id": "mushroom-pasta",
+    "title": "Creamy mushroom pasta",
+    "emoji": "🍝",
+    "minutes": 20,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "pasta",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "mushroom",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "cream",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "parmesan",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "black-pepper",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.015,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 2,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Boil pasta in salted water until al dente; save a cup of pasta water.",
+      "Brown sliced mushrooms in oil, then add garlic.",
+      "Pour in cream and simmer until slightly thick.",
+      "Toss in pasta with a splash of pasta water; finish with pepper and parmesan."
+    ]
+  },
+  {
+    "id": "pav-bhaji",
+    "title": "Pav bhaji",
+    "emoji": "🍛",
+    "minutes": 40,
+    "difficulty": "Medium",
+    "tags": [
+      "Vegetarian"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "pav",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "potato",
+        "amount": 0.3,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.3,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.15,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "capsicum",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "butter",
+        "amount": 0.3,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "frozen-peas",
+        "amount": 0.3,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "lemon",
+        "amount": 1,
+        "unit": "pcs",
+        "optional": true
+      },
+      {
+        "catalogueId": "garam-masala",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Boil potatoes and peas; mash roughly.",
+      "Melt butter, cook onion and capsicum, then tomatoes until mushy.",
+      "Add the mash, spices and a little water; mash together and simmer 10 minutes.",
+      "Toast buttered pav on the pan. Serve with onion and a squeeze of lemon."
+    ]
+  },
+  {
+    "id": "chicken-curry",
+    "title": "Home-style chicken curry",
+    "emoji": "🍗",
+    "minutes": 45,
+    "difficulty": "Medium",
+    "tags": [
+      "One-pot"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "chicken-thighs",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.2,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.2,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "ginger",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "curd",
+        "amount": 0.3,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "garam-masala",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "chilli-powder",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.03,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 0.3,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Marinate chicken in curd, salt and chilli powder for 15 minutes.",
+      "Fry onions until deep golden, then add ginger-garlic paste.",
+      "Add tomatoes and cook until the oil separates.",
+      "Add chicken, sear for 5 minutes, then simmer covered with water for 20 minutes. Finish with garam masala."
+    ]
+  },
+  {
+    "id": "cucumber-raita",
+    "title": "Cucumber raita",
+    "emoji": "🥒",
+    "minutes": 5,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "curd",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "cucumber",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "cumin",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "mint",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.003,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Grate the cucumber and squeeze out excess water.",
+      "Whisk the curd smooth with salt.",
+      "Stir in cucumber, roasted cumin and chopped mint. Chill until serving."
+    ]
+  },
+  {
+    "id": "kadai-paneer",
+    "title": "Kadai paneer",
+    "emoji": "🫑",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "tags": [
+      "Vegetarian"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "paneer",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "capsicum",
+        "amount": 2,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.15,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.2,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "ginger",
+        "amount": 0.3,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "coriander-powder",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "kasuri-methi",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.02,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Dry-roast and crush coriander seeds and chillies (or use powder).",
+      "Sauté diced onion and capsicum on high heat; keep them crunchy.",
+      "Add tomato and ginger and cook to a thick masala.",
+      "Toss in paneer cubes and kasuri methi; cook for 3 minutes."
+    ]
+  },
+  {
+    "id": "mushroom-masala",
+    "title": "Mushroom masala",
+    "emoji": "🍄",
+    "minutes": 25,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "mushroom",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.15,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.2,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "cream",
+        "amount": 0.3,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "garam-masala",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "ginger",
+        "amount": 0.3,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.02,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Sauté onion and ginger until golden.",
+      "Add tomatoes and spices; cook until thick.",
+      "Add sliced mushrooms and cook for 8 minutes until they release their water.",
+      "Finish with a spoon of cream."
+    ]
+  },
+  {
+    "id": "banana-smoothie",
+    "title": "Banana smoothie",
+    "emoji": "🍌",
+    "minutes": 5,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick",
+      "Breakfast"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "banana",
+        "amount": 2,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "milk",
+        "amount": 0.3,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "curd",
+        "amount": 0.3,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "honey",
+        "amount": 0.05,
+        "unit": "pcs",
+        "optional": true
+      },
+      {
+        "catalogueId": "oats",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Peel and slice the bananas.",
+      "Blend with milk, curd and honey until smooth.",
+      "Pour over ice and drink straight away."
+    ]
+  },
+  {
+    "id": "masala-omelette",
+    "title": "Masala omelette",
+    "emoji": "🍳",
+    "minutes": 10,
+    "difficulty": "Easy",
+    "tags": [
+      "Quick",
+      "Egg",
+      "Breakfast"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "eggs",
+        "amount": 3,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.05,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "green-chilli",
+        "amount": 0.1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.05,
+        "unit": "kg",
+        "optional": true
+      },
+      {
+        "catalogueId": "coriander",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.01,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.003,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Beat eggs with finely chopped onion, chilli, tomato, coriander and salt.",
+      "Heat oil in a pan and pour in the eggs.",
+      "Cook on medium until set underneath, flip and cook 30 seconds more."
+    ]
+  },
+  {
+    "id": "aloo-matar",
+    "title": "Aloo matar",
+    "emoji": "🥔",
+    "minutes": 30,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "One-pot"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "potato",
+        "amount": 0.3,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "frozen-peas",
+        "amount": 0.4,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.2,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "cumin",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "turmeric",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.02,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 0.3,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Crackle cumin in oil and fry onion until soft.",
+      "Add tomato and spices and cook into a masala.",
+      "Add cubed potato, peas and water; cover and cook 15 minutes until tender."
+    ]
+  },
+  {
+    "id": "prawn-masala",
+    "title": "Prawn masala",
+    "emoji": "🦐",
+    "minutes": 25,
+    "difficulty": "Medium",
+    "tags": [
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "prawns",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.15,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.2,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "coconut-milk",
+        "amount": 0.5,
+        "unit": "pcs",
+        "optional": true
+      },
+      {
+        "catalogueId": "curry-leaves",
+        "amount": 0.3,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "chilli-powder",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.02,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Thaw prawns and toss with salt and chilli powder.",
+      "Fry onion, garlic and curry leaves until golden.",
+      "Add tomato and cook until soft; stir in coconut milk if using.",
+      "Add prawns and simmer 4–5 minutes until just pink."
+    ]
+  },
+  {
+    "id": "veg-fried-rice",
+    "title": "Veg fried rice",
+    "emoji": "🍚",
+    "minutes": 20,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick",
+      "One-pot"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "rice",
+        "amount": 0.2,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "carrot",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "capsicum",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "frozen-peas",
+        "amount": 0.2,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "soy-sauce",
+        "amount": 0.1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "spring-onion",
+        "amount": 0.5,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "eggs",
+        "amount": 2,
+        "unit": "pcs",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.02,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.005,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Use day-old cooked rice, or cook and cool rice first.",
+      "Stir-fry diced carrot, capsicum and peas on high heat.",
+      "Add rice and soy sauce and toss until every grain is coated.",
+      "Finish with spring onions."
+    ]
+  },
+  {
+    "id": "tomato-soup",
+    "title": "Roasted tomato soup",
+    "emoji": "🍅",
+    "minutes": 25,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "One-pot"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "tomato",
+        "amount": 0.5,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "cream",
+        "amount": 0.3,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "butter",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "basil",
+        "amount": 0.3,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.005,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "black-pepper",
+        "amount": 0.05,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 0.4,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Roughly chop tomatoes, onion and garlic.",
+      "Cook in butter for 5 minutes, then add water and simmer 15 minutes.",
+      "Blend until smooth; season with salt and pepper.",
+      "Swirl in cream and serve with toast."
+    ]
+  },
+  {
+    "id": "french-toast",
+    "title": "French toast",
+    "emoji": "🍞",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "tags": [
+      "Quick",
+      "Breakfast",
+      "Egg"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "bread",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "eggs",
+        "amount": 2,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "milk",
+        "amount": 0.15,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "honey",
+        "amount": 0.05,
+        "unit": "pcs",
+        "optional": true
+      },
+      {
+        "catalogueId": "butter",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "banana",
+        "amount": 1,
+        "unit": "pcs",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Whisk eggs and milk with a pinch of salt (or sugar).",
+      "Dip bread slices in the mix for a few seconds each side.",
+      "Fry in butter until golden. Serve with banana and honey."
+    ]
+  },
+  {
+    "id": "dal-palak",
+    "title": "Dal palak",
+    "emoji": "🥬",
+    "minutes": 35,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "One-pot"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "toor-dal",
+        "amount": 0.2,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "spinach",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "cumin",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "ghee",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "turmeric",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 0.8,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Pressure-cook dal with turmeric and water.",
+      "Wash and chop the spinach.",
+      "Fry garlic and cumin in ghee, add tomato, then spinach until wilted.",
+      "Stir into the dal and simmer 5 minutes."
+    ]
+  },
+  {
+    "id": "chicken-wrap",
+    "title": "Chicken salad wrap",
+    "emoji": "🌯",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "tags": [
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "tortillas",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "chicken-breast",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "lettuce",
+        "amount": 0.5,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "mayonnaise",
+        "amount": 0.1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.1,
+        "unit": "kg",
+        "optional": true
+      },
+      {
+        "catalogueId": "cucumber",
+        "amount": 0.5,
+        "unit": "pcs",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.01,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.003,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Season and pan-fry the chicken; slice thinly.",
+      "Warm the tortillas in a dry pan.",
+      "Spread mayo, layer lettuce, tomato, cucumber and chicken.",
+      "Roll up tightly and slice in half."
+    ]
+  },
+  {
+    "id": "pasta-arrabbiata",
+    "title": "Pasta arrabbiata",
+    "emoji": "🍝",
+    "minutes": 20,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "pasta",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.4,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "chilli-flakes",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "olive-oil",
+        "amount": 0.05,
+        "unit": "pcs",
+        "optional": true
+      },
+      {
+        "catalogueId": "basil",
+        "amount": 0.3,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 2,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Boil the pasta in well-salted water.",
+      "Gently fry sliced garlic and chilli flakes in oil.",
+      "Add chopped tomatoes and simmer into a quick sauce.",
+      "Toss the pasta through with a splash of pasta water and basil."
+    ]
+  },
+  {
+    "id": "mushroom-toast",
+    "title": "Garlic mushroom toast",
+    "emoji": "🍄",
+    "minutes": 12,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick",
+      "Breakfast"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "bread",
+        "amount": 0.3,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "mushroom",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "butter",
+        "amount": 0.1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "coriander",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.003,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "black-pepper",
+        "amount": 0.03,
+        "unit": "pack"
+      }
+    ],
+    "steps": [
+      "Toast the bread.",
+      "Melt butter and fry sliced mushrooms until golden.",
+      "Add garlic, salt and pepper and cook 1 minute more.",
+      "Pile onto toast and scatter with herbs."
+    ]
+  },
+  {
+    "id": "curd-rice",
+    "title": "Curd rice",
+    "emoji": "🍚",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "rice",
+        "amount": 0.15,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "curd",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "mustard-seeds",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "curry-leaves",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "green-chilli",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "cucumber",
+        "amount": 0.5,
+        "unit": "pcs",
+        "optional": true
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.005,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.01,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Cook rice until soft and let it cool slightly; mash lightly.",
+      "Mix in curd and salt (add a little milk if too sour).",
+      "Temper mustard seeds, curry leaves and chilli in oil and pour over.",
+      "Fold in grated cucumber and serve cool."
+    ]
+  },
+  {
+    "id": "kachumber",
+    "title": "Kachumber salad",
+    "emoji": "🥗",
+    "minutes": 10,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "cucumber",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.15,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.05,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "lemon",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "coriander",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "green-chilli",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.003,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Finely dice cucumber, tomato and onion.",
+      "Toss with lemon juice, salt and chopped chilli.",
+      "Finish with coriander and serve right away."
+    ]
+  },
+  {
+    "id": "chicken-biryani",
+    "title": "Chicken biryani",
+    "emoji": "🍛",
+    "minutes": 60,
+    "difficulty": "Medium",
+    "tags": [
+      "One-pot"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "rice",
+        "amount": 0.3,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "chicken-thighs",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.25,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "curd",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "ginger",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "mint",
+        "amount": 0.5,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "garam-masala",
+        "amount": 0.15,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "ghee",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.04,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.015,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 0.6,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Marinate chicken in curd, ginger-garlic, spices and salt for 30 minutes.",
+      "Fry sliced onions until deep brown; keep half for garnish.",
+      "Cook the chicken with tomato and remaining onions for 10 minutes.",
+      "Layer par-boiled rice over the chicken, add mint, fried onions and ghee.",
+      "Cover tightly and cook on very low heat for 20 minutes."
+    ]
+  },
+  {
+    "id": "paneer-tikka",
+    "title": "Paneer tikka",
+    "emoji": "🍢",
+    "minutes": 30,
+    "difficulty": "Medium",
+    "tags": [
+      "Vegetarian"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "paneer",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "capsicum",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "curd",
+        "amount": 0.3,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "lemon",
+        "amount": 1,
+        "unit": "pcs",
+        "optional": true
+      },
+      {
+        "catalogueId": "chilli-powder",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "garam-masala",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.015,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.005,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Whisk curd with spices, lemon, oil and salt.",
+      "Toss paneer, capsicum and onion chunks in the marinade; rest 15 minutes.",
+      "Thread onto skewers or spread on a tray.",
+      "Grill or pan-roast on high heat until charred at the edges."
+    ]
+  },
+  {
+    "id": "shakshuka",
+    "title": "Shakshuka",
+    "emoji": "🍳",
+    "minutes": 25,
+    "difficulty": "Easy",
+    "tags": [
+      "One-pot",
+      "Egg"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "eggs",
+        "amount": 4,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.4,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "capsicum",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "chilli-flakes",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "coriander",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.02,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.005,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Soften onion, capsicum and garlic in oil.",
+      "Add chopped tomatoes and chilli; simmer into a thick sauce.",
+      "Make wells and crack in the eggs.",
+      "Cover and cook until the whites set. Serve with bread."
+    ]
+  },
+  {
+    "id": "veg-hakka-noodles",
+    "title": "Veg hakka noodles",
+    "emoji": "🍜",
+    "minutes": 20,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "noodles",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "cabbage",
+        "amount": 0.3,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "capsicum",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "carrot",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "soy-sauce",
+        "amount": 0.1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "spring-onion",
+        "amount": 0.5,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "vinegar",
+        "amount": 0.05,
+        "unit": "pcs",
+        "optional": true
+      },
+      {
+        "catalogueId": "chilli-sauce",
+        "amount": 0.05,
+        "unit": "pcs",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.02,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.005,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 1.5,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Boil noodles until just done, drain and toss with a little oil.",
+      "Stir-fry shredded cabbage, capsicum and carrot on high heat.",
+      "Add noodles, soy, vinegar and chilli sauce. Toss well and finish with spring onions."
+    ]
+  },
+  {
+    "id": "mango-lassi",
+    "title": "Mango lassi",
+    "emoji": "🥭",
+    "minutes": 5,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "mango",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "curd",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "milk",
+        "amount": 0.1,
+        "unit": "l",
+        "optional": true
+      },
+      {
+        "catalogueId": "sugar",
+        "amount": 0.02,
+        "unit": "kg",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Peel and chop the mango.",
+      "Blend with curd, milk and sugar until frothy.",
+      "Serve chilled."
+    ]
+  },
+  {
+    "id": "momos-chutney",
+    "title": "Momos with tomato chutney",
+    "emoji": "🥟",
+    "minutes": 20,
+    "difficulty": "Easy",
+    "tags": [
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "frozen-momos",
+        "amount": 1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.15,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "chilli-flakes",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.003,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 0.5,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Steam the momos for 10–12 minutes.",
+      "Char the tomatoes and garlic in a dry pan.",
+      "Blend with chilli and salt into a spicy chutney.",
+      "Serve the momos hot with the chutney."
+    ]
+  },
+  {
+    "id": "gajar-halwa",
+    "title": "Gajar halwa",
+    "emoji": "🥕",
+    "minutes": 50,
+    "difficulty": "Medium",
+    "tags": [
+      "Vegetarian"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "carrot",
+        "amount": 0.5,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "milk",
+        "amount": 0.5,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "sugar",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "ghee",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "cashews",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "raisins",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Grate the carrots.",
+      "Simmer in milk, stirring often, until the milk is absorbed.",
+      "Add sugar and ghee and cook until glossy.",
+      "Garnish with fried cashews and raisins."
+    ]
+  },
+  {
+    "id": "aglio-olio",
+    "title": "Spaghetti aglio e olio",
+    "emoji": "🍝",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "pasta",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "olive-oil",
+        "amount": 0.1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "chilli-flakes",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "parmesan",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 2,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Cook spaghetti in well-salted water.",
+      "Gently fry thinly sliced garlic and chilli in olive oil until pale gold.",
+      "Toss in the pasta with a splash of pasta water.",
+      "Finish with parmesan if you like."
+    ]
+  },
+  {
+    "id": "poha",
+    "title": "Kanda poha",
+    "emoji": "🍚",
+    "minutes": 20,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick",
+      "Breakfast"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "poha",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "potato",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "lemon",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "peanuts",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "curry-leaves",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "turmeric",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "green-chilli",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.015,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.005,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Rinse poha in a sieve and let it soften.",
+      "Fry peanuts, then onion, potato, curry leaves and chilli.",
+      "Add turmeric and salt, then the poha; toss gently.",
+      "Steam covered for 2 minutes and finish with lemon juice."
+    ]
+  },
+  {
+    "id": "upma",
+    "title": "Vegetable upma",
+    "emoji": "🥣",
+    "minutes": 20,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick",
+      "Breakfast"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "rava",
+        "amount": 0.5,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "green-chilli",
+        "amount": 0.1,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "carrot",
+        "amount": 0.05,
+        "unit": "kg",
+        "optional": true
+      },
+      {
+        "catalogueId": "frozen-peas",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "mustard-seeds",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "curry-leaves",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.015,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.005,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 0.5,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Dry-roast the rava until fragrant; set aside.",
+      "Temper mustard seeds and curry leaves, add onion, chilli and vegetables.",
+      "Add water and salt and bring to a boil.",
+      "Stir in rava steadily to avoid lumps; cover and cook 2 minutes."
+    ]
+  },
+  {
+    "id": "chole",
+    "title": "Chole",
+    "emoji": "🫘",
+    "minutes": 45,
+    "difficulty": "Medium",
+    "tags": [
+      "Vegetarian",
+      "One-pot"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "chana",
+        "amount": 0.25,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.15,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "tomato",
+        "amount": 0.2,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "ginger",
+        "amount": 0.3,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "garlic",
+        "amount": 1,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "garam-masala",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "tea",
+        "amount": 0.02,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.02,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 0.8,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Soak chickpeas overnight; pressure-cook with salt (and a tea bag for colour).",
+      "Fry onion, ginger and garlic until golden.",
+      "Add tomato and spices and cook to a thick masala.",
+      "Add chickpeas with some cooking water and simmer 15 minutes."
+    ]
+  },
+  {
+    "id": "lemon-rice",
+    "title": "Lemon rice",
+    "emoji": "🍋",
+    "minutes": 15,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "rice",
+        "amount": 0.15,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "lemon",
+        "amount": 2,
+        "unit": "pcs"
+      },
+      {
+        "catalogueId": "peanuts",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "mustard-seeds",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "curry-leaves",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "green-chilli",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "turmeric",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.015,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.005,
+        "unit": "kg"
+      }
+    ],
+    "steps": [
+      "Spread cooked rice on a plate to cool.",
+      "Fry peanuts, mustard seeds, curry leaves and chilli in oil.",
+      "Add turmeric, then the rice and salt.",
+      "Squeeze over lemon juice and toss gently."
+    ]
+  },
+  {
+    "id": "berry-oats",
+    "title": "Berry overnight oats",
+    "emoji": "🫐",
+    "minutes": 5,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "Quick",
+      "Breakfast"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "oats",
+        "amount": 0.3,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "milk",
+        "amount": 0.2,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "frozen-berries",
+        "amount": 0.3,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "honey",
+        "amount": 0.05,
+        "unit": "pcs",
+        "optional": true
+      },
+      {
+        "catalogueId": "curd",
+        "amount": 0.2,
+        "unit": "pack",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Stir oats with milk and curd in a jar.",
+      "Top with frozen berries and a drizzle of honey.",
+      "Refrigerate overnight; eat cold."
+    ]
+  },
+  {
+    "id": "veg-pulao",
+    "title": "Peas & carrot pulao",
+    "emoji": "🍚",
+    "minutes": 30,
+    "difficulty": "Easy",
+    "tags": [
+      "Vegetarian",
+      "One-pot"
+    ],
+    "ingredients": [
+      {
+        "catalogueId": "rice",
+        "amount": 0.25,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "frozen-peas",
+        "amount": 0.3,
+        "unit": "pack"
+      },
+      {
+        "catalogueId": "carrot",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "onion",
+        "amount": 0.1,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "bay-leaf",
+        "amount": 0.1,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "cumin",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "ghee",
+        "amount": 0.05,
+        "unit": "pack",
+        "optional": true
+      },
+      {
+        "catalogueId": "oil",
+        "amount": 0.015,
+        "unit": "l"
+      },
+      {
+        "catalogueId": "salt",
+        "amount": 0.01,
+        "unit": "kg"
+      },
+      {
+        "catalogueId": "water",
+        "amount": 0.5,
+        "unit": "l"
+      }
+    ],
+    "steps": [
+      "Rinse and soak rice for 15 minutes.",
+      "Fry bay leaf, cumin and sliced onion in ghee.",
+      "Add peas, diced carrot, rice, water and salt.",
+      "Cover and cook on low for 12 minutes; rest before fluffing."
+    ]
+  }
+]

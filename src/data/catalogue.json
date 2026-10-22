@@ -1,0 +1,2536 @@
+[
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "emoji": "🥬",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 4,
+      "Freezer": 180
+    },
+    "typicalPrice": 40,
+    "defaultUnit": "pack",
+    "aliases": [
+      "palak",
+      "baby spinach"
+    ]
+  },
+  {
+    "id": "coriander",
+    "name": "Coriander",
+    "emoji": "🌿",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 5,
+      "Freezer": 90
+    },
+    "typicalPrice": 20,
+    "defaultUnit": "pack",
+    "aliases": [
+      "dhania",
+      "cilantro",
+      "coriander leaves"
+    ]
+  },
+  {
+    "id": "mint",
+    "name": "Mint",
+    "emoji": "🌿",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 5,
+      "Freezer": 90
+    },
+    "typicalPrice": 20,
+    "defaultUnit": "pack",
+    "aliases": [
+      "pudina"
+    ]
+  },
+  {
+    "id": "curry-leaves",
+    "name": "Curry leaves",
+    "emoji": "🌿",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 10,
+      "Freezer": 120
+    },
+    "typicalPrice": 10,
+    "defaultUnit": "pack",
+    "aliases": [
+      "kadi patta"
+    ]
+  },
+  {
+    "id": "methi",
+    "name": "Fenugreek leaves",
+    "emoji": "🌿",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 3,
+      "Freezer": 90
+    },
+    "typicalPrice": 25,
+    "defaultUnit": "pack",
+    "aliases": [
+      "methi",
+      "fenugreek"
+    ]
+  },
+  {
+    "id": "tomato",
+    "name": "Tomatoes",
+    "emoji": "🍅",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 7,
+      "Pantry": 4,
+      "Freezer": 120
+    },
+    "typicalPrice": 40,
+    "defaultUnit": "kg",
+    "aliases": [
+      "tomato",
+      "tamatar"
+    ]
+  },
+  {
+    "id": "onion",
+    "name": "Onions",
+    "emoji": "🧅",
+    "category": "Produce",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 30,
+      "Fridge": 60
+    },
+    "typicalPrice": 35,
+    "defaultUnit": "kg",
+    "aliases": [
+      "onion",
+      "pyaaz",
+      "pyaz"
+    ]
+  },
+  {
+    "id": "potato",
+    "name": "Potatoes",
+    "emoji": "🥔",
+    "category": "Produce",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 30,
+      "Fridge": 45
+    },
+    "typicalPrice": 30,
+    "defaultUnit": "kg",
+    "aliases": [
+      "potato",
+      "aloo",
+      "alu"
+    ]
+  },
+  {
+    "id": "garlic",
+    "name": "Garlic",
+    "emoji": "🧄",
+    "category": "Produce",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 60,
+      "Fridge": 90,
+      "Freezer": 180
+    },
+    "typicalPrice": 10,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "lehsun",
+      "garlic bulb"
+    ]
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger",
+    "emoji": "🫚",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 21,
+      "Pantry": 10,
+      "Freezer": 180
+    },
+    "typicalPrice": 20,
+    "defaultUnit": "pack",
+    "aliases": [
+      "adrak"
+    ]
+  },
+  {
+    "id": "green-chilli",
+    "name": "Green chillies",
+    "emoji": "🌶️",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 10,
+      "Freezer": 120
+    },
+    "typicalPrice": 10,
+    "defaultUnit": "pack",
+    "aliases": [
+      "green chili",
+      "mirchi",
+      "hari mirch",
+      "chillies",
+      "chilli"
+    ]
+  },
+  {
+    "id": "lemon",
+    "name": "Lemons",
+    "emoji": "🍋",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 21,
+      "Pantry": 7,
+      "Freezer": 120
+    },
+    "typicalPrice": 5,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "lemon",
+      "nimbu",
+      "lime"
+    ]
+  },
+  {
+    "id": "carrot",
+    "name": "Carrots",
+    "emoji": "🥕",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 21,
+      "Freezer": 240
+    },
+    "typicalPrice": 50,
+    "defaultUnit": "kg",
+    "aliases": [
+      "carrot",
+      "gajar"
+    ]
+  },
+  {
+    "id": "capsicum",
+    "name": "Capsicum",
+    "emoji": "🫑",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 7,
+      "Freezer": 180
+    },
+    "typicalPrice": 15,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "bell pepper",
+      "shimla mirch",
+      "green pepper"
+    ]
+  },
+  {
+    "id": "cucumber",
+    "name": "Cucumber",
+    "emoji": "🥒",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 7
+    },
+    "typicalPrice": 10,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "kheera",
+      "khira"
+    ]
+  },
+  {
+    "id": "cauliflower",
+    "name": "Cauliflower",
+    "emoji": "🥦",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 7,
+      "Freezer": 240
+    },
+    "typicalPrice": 40,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "gobi",
+      "phool gobi"
+    ]
+  },
+  {
+    "id": "broccoli",
+    "name": "Broccoli",
+    "emoji": "🥦",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 5,
+      "Freezer": 240
+    },
+    "typicalPrice": 80,
+    "defaultUnit": "pcs"
+  },
+  {
+    "id": "cabbage",
+    "name": "Cabbage",
+    "emoji": "🥬",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 14,
+      "Freezer": 180
+    },
+    "typicalPrice": 30,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "patta gobi"
+    ]
+  },
+  {
+    "id": "green-peas",
+    "name": "Green peas",
+    "emoji": "🫛",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 5,
+      "Freezer": 240
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "kg",
+    "aliases": [
+      "fresh peas",
+      "matar"
+    ]
+  },
+  {
+    "id": "french-beans",
+    "name": "French beans",
+    "emoji": "🫛",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 6,
+      "Freezer": 240
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "kg",
+    "aliases": [
+      "beans",
+      "green beans"
+    ]
+  },
+  {
+    "id": "okra",
+    "name": "Okra",
+    "emoji": "🫛",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 4,
+      "Freezer": 180
+    },
+    "typicalPrice": 50,
+    "defaultUnit": "kg",
+    "aliases": [
+      "bhindi",
+      "ladies finger"
+    ]
+  },
+  {
+    "id": "brinjal",
+    "name": "Brinjal",
+    "emoji": "🍆",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 6
+    },
+    "typicalPrice": 50,
+    "defaultUnit": "kg",
+    "aliases": [
+      "baingan",
+      "eggplant",
+      "aubergine"
+    ]
+  },
+  {
+    "id": "mushroom",
+    "name": "Mushrooms",
+    "emoji": "🍄",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 5,
+      "Freezer": 180
+    },
+    "typicalPrice": 50,
+    "defaultUnit": "pack",
+    "aliases": [
+      "mushroom",
+      "button mushrooms"
+    ]
+  },
+  {
+    "id": "spring-onion",
+    "name": "Spring onions",
+    "emoji": "🧅",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 7,
+      "Freezer": 90
+    },
+    "typicalPrice": 20,
+    "defaultUnit": "pack",
+    "aliases": [
+      "scallions",
+      "green onion"
+    ]
+  },
+  {
+    "id": "lettuce",
+    "name": "Lettuce",
+    "emoji": "🥬",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 5
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "iceberg",
+      "salad leaves"
+    ]
+  },
+  {
+    "id": "sweet-potato",
+    "name": "Sweet potatoes",
+    "emoji": "🍠",
+    "category": "Produce",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 21,
+      "Fridge": 30
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "kg",
+    "aliases": [
+      "shakarkandi"
+    ]
+  },
+  {
+    "id": "corn",
+    "name": "Sweet corn",
+    "emoji": "🌽",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 4,
+      "Freezer": 240
+    },
+    "typicalPrice": 25,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "bhutta",
+      "corn on the cob"
+    ]
+  },
+  {
+    "id": "avocado",
+    "name": "Avocado",
+    "emoji": "🥑",
+    "category": "Produce",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 3,
+      "Fridge": 5
+    },
+    "typicalPrice": 120,
+    "defaultUnit": "pcs"
+  },
+  {
+    "id": "zucchini",
+    "name": "Zucchini",
+    "emoji": "🥒",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 6,
+      "Freezer": 180
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "courgette"
+    ]
+  },
+  {
+    "id": "bottle-gourd",
+    "name": "Bottle gourd",
+    "emoji": "🥒",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 7
+    },
+    "typicalPrice": 30,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "lauki",
+      "dudhi"
+    ]
+  },
+  {
+    "id": "pumpkin",
+    "name": "Pumpkin",
+    "emoji": "🎃",
+    "category": "Produce",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 30,
+      "Fridge": 7,
+      "Freezer": 180
+    },
+    "typicalPrice": 40,
+    "defaultUnit": "kg",
+    "aliases": [
+      "kaddu"
+    ]
+  },
+  {
+    "id": "radish",
+    "name": "Radish",
+    "emoji": "🥕",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 10
+    },
+    "typicalPrice": 30,
+    "defaultUnit": "kg",
+    "aliases": [
+      "mooli"
+    ]
+  },
+  {
+    "id": "basil",
+    "name": "Basil",
+    "emoji": "🌿",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 5,
+      "Freezer": 90
+    },
+    "typicalPrice": 40,
+    "defaultUnit": "pack",
+    "aliases": [
+      "tulsi"
+    ]
+  },
+  {
+    "id": "banana",
+    "name": "Bananas",
+    "emoji": "🍌",
+    "category": "Produce",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 5,
+      "Fridge": 7,
+      "Freezer": 90
+    },
+    "typicalPrice": 6,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "banana",
+      "kela"
+    ]
+  },
+  {
+    "id": "apple",
+    "name": "Apples",
+    "emoji": "🍎",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 30,
+      "Pantry": 10,
+      "Freezer": 180
+    },
+    "typicalPrice": 30,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "apple",
+      "seb"
+    ]
+  },
+  {
+    "id": "orange",
+    "name": "Oranges",
+    "emoji": "🍊",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 14,
+      "Pantry": 7
+    },
+    "typicalPrice": 15,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "orange",
+      "santra"
+    ]
+  },
+  {
+    "id": "mango",
+    "name": "Mangoes",
+    "emoji": "🥭",
+    "category": "Produce",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 5,
+      "Fridge": 7,
+      "Freezer": 180
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "mango",
+      "aam"
+    ]
+  },
+  {
+    "id": "grapes",
+    "name": "Grapes",
+    "emoji": "🍇",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 7,
+      "Freezer": 180
+    },
+    "typicalPrice": 80,
+    "defaultUnit": "pack",
+    "aliases": [
+      "angoor"
+    ]
+  },
+  {
+    "id": "strawberries",
+    "name": "Strawberries",
+    "emoji": "🍓",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 4,
+      "Freezer": 180
+    },
+    "typicalPrice": 120,
+    "defaultUnit": "pack",
+    "aliases": [
+      "strawberry"
+    ]
+  },
+  {
+    "id": "papaya",
+    "name": "Papaya",
+    "emoji": "🍈",
+    "category": "Produce",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 4,
+      "Fridge": 6
+    },
+    "typicalPrice": 50,
+    "defaultUnit": "pcs"
+  },
+  {
+    "id": "watermelon",
+    "name": "Watermelon",
+    "emoji": "🍉",
+    "category": "Produce",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 7,
+      "Fridge": 5
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "tarbooz"
+    ]
+  },
+  {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "emoji": "🍍",
+    "category": "Produce",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 4,
+      "Fridge": 5,
+      "Freezer": 180
+    },
+    "typicalPrice": 70,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "ananas"
+    ]
+  },
+  {
+    "id": "kiwi",
+    "name": "Kiwi",
+    "emoji": "🥝",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 14,
+      "Pantry": 5
+    },
+    "typicalPrice": 20,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "kiwis"
+    ]
+  },
+  {
+    "id": "blueberries",
+    "name": "Blueberries",
+    "emoji": "🫐",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 7,
+      "Freezer": 180
+    },
+    "typicalPrice": 250,
+    "defaultUnit": "pack",
+    "aliases": [
+      "blueberry"
+    ]
+  },
+  {
+    "id": "coconut",
+    "name": "Coconut",
+    "emoji": "🥥",
+    "category": "Produce",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 30,
+      "Fridge": 7
+    },
+    "typicalPrice": 40,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "nariyal"
+    ]
+  },
+  {
+    "id": "pear",
+    "name": "Pears",
+    "emoji": "🍐",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 10,
+      "Pantry": 5
+    },
+    "typicalPrice": 25,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "pear",
+      "nashpati"
+    ]
+  },
+  {
+    "id": "peach",
+    "name": "Peaches",
+    "emoji": "🍑",
+    "category": "Produce",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 4,
+      "Fridge": 7
+    },
+    "typicalPrice": 30,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "peach"
+    ]
+  },
+  {
+    "id": "cherries",
+    "name": "Cherries",
+    "emoji": "🍒",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 5,
+      "Freezer": 180
+    },
+    "typicalPrice": 300,
+    "defaultUnit": "pack",
+    "aliases": [
+      "cherry"
+    ]
+  },
+  {
+    "id": "grated-coconut",
+    "name": "Grated coconut",
+    "emoji": "🥥",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 4,
+      "Freezer": 60
+    },
+    "typicalPrice": 30,
+    "defaultUnit": "pack",
+    "aliases": [
+      "desiccated coconut",
+      "fresh coconut"
+    ]
+  },
+  {
+    "id": "sprouts",
+    "name": "Moong sprouts",
+    "emoji": "🌱",
+    "category": "Produce",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 3
+    },
+    "typicalPrice": 30,
+    "defaultUnit": "pack",
+    "aliases": [
+      "sprouts",
+      "bean sprouts"
+    ]
+  },
+  {
+    "id": "milk",
+    "name": "Milk",
+    "emoji": "🥛",
+    "category": "Dairy",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 4,
+      "Freezer": 30
+    },
+    "typicalPrice": 62,
+    "defaultUnit": "l",
+    "aliases": [
+      "doodh",
+      "toned milk"
+    ]
+  },
+  {
+    "id": "curd",
+    "name": "Curd",
+    "emoji": "🥣",
+    "category": "Dairy",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 5
+    },
+    "typicalPrice": 40,
+    "defaultUnit": "pack",
+    "aliases": [
+      "dahi",
+      "yogurt",
+      "yoghurt",
+      "plain yogurt"
+    ]
+  },
+  {
+    "id": "paneer",
+    "name": "Paneer",
+    "emoji": "🧀",
+    "category": "Dairy",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 5,
+      "Freezer": 60
+    },
+    "typicalPrice": 90,
+    "defaultUnit": "pack",
+    "aliases": [
+      "cottage cheese"
+    ]
+  },
+  {
+    "id": "butter",
+    "name": "Butter",
+    "emoji": "🧈",
+    "category": "Dairy",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 30,
+      "Freezer": 180
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "pack",
+    "aliases": [
+      "makhan"
+    ]
+  },
+  {
+    "id": "ghee",
+    "name": "Ghee",
+    "emoji": "🫙",
+    "category": "Dairy",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180,
+      "Fridge": 365
+    },
+    "typicalPrice": 300,
+    "defaultUnit": "pack",
+    "aliases": [
+      "clarified butter"
+    ]
+  },
+  {
+    "id": "cheese-slices",
+    "name": "Cheese slices",
+    "emoji": "🧀",
+    "category": "Dairy",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 30,
+      "Freezer": 90
+    },
+    "typicalPrice": 130,
+    "defaultUnit": "pack",
+    "aliases": [
+      "cheese",
+      "processed cheese"
+    ]
+  },
+  {
+    "id": "cheddar",
+    "name": "Cheddar",
+    "emoji": "🧀",
+    "category": "Dairy",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 30,
+      "Freezer": 180
+    },
+    "typicalPrice": 200,
+    "defaultUnit": "pack",
+    "aliases": [
+      "cheddar cheese"
+    ]
+  },
+  {
+    "id": "mozzarella",
+    "name": "Mozzarella",
+    "emoji": "🧀",
+    "category": "Dairy",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 14,
+      "Freezer": 90
+    },
+    "typicalPrice": 180,
+    "defaultUnit": "pack",
+    "aliases": [
+      "pizza cheese"
+    ]
+  },
+  {
+    "id": "parmesan",
+    "name": "Parmesan",
+    "emoji": "🧀",
+    "category": "Dairy",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 60,
+      "Freezer": 180
+    },
+    "typicalPrice": 400,
+    "defaultUnit": "pack",
+    "aliases": [
+      "parmigiano"
+    ]
+  },
+  {
+    "id": "cream",
+    "name": "Fresh cream",
+    "emoji": "🥛",
+    "category": "Dairy",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 5,
+      "Freezer": 60
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "pack",
+    "aliases": [
+      "cream",
+      "malai"
+    ]
+  },
+  {
+    "id": "buttermilk",
+    "name": "Buttermilk",
+    "emoji": "🥛",
+    "category": "Dairy",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 3
+    },
+    "typicalPrice": 15,
+    "defaultUnit": "pack",
+    "aliases": [
+      "chaas",
+      "chhaas"
+    ]
+  },
+  {
+    "id": "greek-yogurt",
+    "name": "Greek yogurt",
+    "emoji": "🥣",
+    "category": "Dairy",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 10
+    },
+    "typicalPrice": 80,
+    "defaultUnit": "pack",
+    "aliases": [
+      "hung curd"
+    ]
+  },
+  {
+    "id": "eggs",
+    "name": "Eggs",
+    "emoji": "🥚",
+    "category": "Dairy",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 21
+    },
+    "typicalPrice": 7,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "egg",
+      "anda",
+      "ande"
+    ]
+  },
+  {
+    "id": "condensed-milk",
+    "name": "Condensed milk",
+    "emoji": "🥫",
+    "category": "Dairy",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 130,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "milkmaid"
+    ]
+  },
+  {
+    "id": "tofu",
+    "name": "Tofu",
+    "emoji": "🧊",
+    "category": "Other",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 5,
+      "Freezer": 90
+    },
+    "typicalPrice": 90,
+    "defaultUnit": "pack",
+    "aliases": [
+      "bean curd"
+    ]
+  },
+  {
+    "id": "chicken-thighs",
+    "name": "Chicken thighs",
+    "emoji": "🍗",
+    "category": "Meat",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 2,
+      "Freezer": 120
+    },
+    "typicalPrice": 180,
+    "defaultUnit": "pack",
+    "aliases": [
+      "chicken",
+      "chicken thigh"
+    ]
+  },
+  {
+    "id": "chicken-breast",
+    "name": "Chicken breast",
+    "emoji": "🍗",
+    "category": "Meat",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 2,
+      "Freezer": 120
+    },
+    "typicalPrice": 200,
+    "defaultUnit": "pack",
+    "aliases": [
+      "chicken breasts"
+    ]
+  },
+  {
+    "id": "chicken-mince",
+    "name": "Chicken keema",
+    "emoji": "🍖",
+    "category": "Meat",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 2,
+      "Freezer": 90
+    },
+    "typicalPrice": 220,
+    "defaultUnit": "pack",
+    "aliases": [
+      "chicken mince",
+      "minced chicken"
+    ]
+  },
+  {
+    "id": "mutton",
+    "name": "Mutton",
+    "emoji": "🍖",
+    "category": "Meat",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 2,
+      "Freezer": 120
+    },
+    "typicalPrice": 400,
+    "defaultUnit": "pack",
+    "aliases": [
+      "goat meat",
+      "lamb"
+    ]
+  },
+  {
+    "id": "lamb-mince",
+    "name": "Mutton keema",
+    "emoji": "🍖",
+    "category": "Meat",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 2,
+      "Freezer": 90
+    },
+    "typicalPrice": 380,
+    "defaultUnit": "pack",
+    "aliases": [
+      "keema",
+      "lamb mince"
+    ]
+  },
+  {
+    "id": "bacon",
+    "name": "Bacon",
+    "emoji": "🥓",
+    "category": "Meat",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 7,
+      "Freezer": 60
+    },
+    "typicalPrice": 250,
+    "defaultUnit": "pack"
+  },
+  {
+    "id": "sausages",
+    "name": "Sausages",
+    "emoji": "🌭",
+    "category": "Meat",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 7,
+      "Freezer": 60
+    },
+    "typicalPrice": 200,
+    "defaultUnit": "pack",
+    "aliases": [
+      "sausage"
+    ]
+  },
+  {
+    "id": "ham",
+    "name": "Ham",
+    "emoji": "🍖",
+    "category": "Meat",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 5,
+      "Freezer": 60
+    },
+    "typicalPrice": 180,
+    "defaultUnit": "pack"
+  },
+  {
+    "id": "prawns",
+    "name": "Prawns",
+    "emoji": "🦐",
+    "category": "Seafood",
+    "defaultLocation": "Freezer",
+    "shelfLifeDays": {
+      "Fridge": 2,
+      "Freezer": 90
+    },
+    "typicalPrice": 350,
+    "defaultUnit": "pack",
+    "aliases": [
+      "shrimp",
+      "jhinga"
+    ]
+  },
+  {
+    "id": "fish-fillet",
+    "name": "Fish fillet",
+    "emoji": "🐟",
+    "category": "Seafood",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 2,
+      "Freezer": 90
+    },
+    "typicalPrice": 300,
+    "defaultUnit": "pack",
+    "aliases": [
+      "fish",
+      "basa",
+      "surmai"
+    ]
+  },
+  {
+    "id": "salmon",
+    "name": "Salmon",
+    "emoji": "🐟",
+    "category": "Seafood",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 2,
+      "Freezer": 90
+    },
+    "typicalPrice": 700,
+    "defaultUnit": "pack"
+  },
+  {
+    "id": "tuna",
+    "name": "Canned tuna",
+    "emoji": "🥫",
+    "category": "Seafood",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 180,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "tuna"
+    ]
+  },
+  {
+    "id": "bread",
+    "name": "Bread",
+    "emoji": "🍞",
+    "category": "Bakery",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 4,
+      "Fridge": 7,
+      "Freezer": 60
+    },
+    "typicalPrice": 50,
+    "defaultUnit": "pack",
+    "aliases": [
+      "white bread",
+      "loaf"
+    ]
+  },
+  {
+    "id": "brown-bread",
+    "name": "Brown bread",
+    "emoji": "🍞",
+    "category": "Bakery",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 4,
+      "Fridge": 7,
+      "Freezer": 60
+    },
+    "typicalPrice": 55,
+    "defaultUnit": "pack",
+    "aliases": [
+      "whole wheat bread"
+    ]
+  },
+  {
+    "id": "pav",
+    "name": "Pav",
+    "emoji": "🍞",
+    "category": "Bakery",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 3,
+      "Freezer": 60
+    },
+    "typicalPrice": 30,
+    "defaultUnit": "pack",
+    "aliases": [
+      "pav buns",
+      "ladi pav"
+    ]
+  },
+  {
+    "id": "tortillas",
+    "name": "Tortillas",
+    "emoji": "🫓",
+    "category": "Bakery",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 14,
+      "Pantry": 7,
+      "Freezer": 90
+    },
+    "typicalPrice": 120,
+    "defaultUnit": "pack",
+    "aliases": [
+      "wraps",
+      "tortilla"
+    ]
+  },
+  {
+    "id": "burger-buns",
+    "name": "Burger buns",
+    "emoji": "🍔",
+    "category": "Bakery",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 4,
+      "Freezer": 60
+    },
+    "typicalPrice": 50,
+    "defaultUnit": "pack",
+    "aliases": [
+      "buns"
+    ]
+  },
+  {
+    "id": "croissant",
+    "name": "Croissants",
+    "emoji": "🥐",
+    "category": "Bakery",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 2,
+      "Freezer": 30
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "croissant"
+    ]
+  },
+  {
+    "id": "bagel",
+    "name": "Bagels",
+    "emoji": "🥯",
+    "category": "Bakery",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 3,
+      "Freezer": 60
+    },
+    "typicalPrice": 50,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "bagel"
+    ]
+  },
+  {
+    "id": "pita",
+    "name": "Pita bread",
+    "emoji": "🫓",
+    "category": "Bakery",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 4,
+      "Freezer": 60
+    },
+    "typicalPrice": 80,
+    "defaultUnit": "pack",
+    "aliases": [
+      "pita"
+    ]
+  },
+  {
+    "id": "baguette",
+    "name": "Baguette",
+    "emoji": "🥖",
+    "category": "Bakery",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 2,
+      "Freezer": 30
+    },
+    "typicalPrice": 90,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "french bread"
+    ]
+  },
+  {
+    "id": "rice",
+    "name": "Rice",
+    "emoji": "🍚",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 90,
+    "defaultUnit": "kg",
+    "aliases": [
+      "basmati",
+      "chawal"
+    ]
+  },
+  {
+    "id": "atta",
+    "name": "Atta",
+    "emoji": "🌾",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 120
+    },
+    "typicalPrice": 50,
+    "defaultUnit": "kg",
+    "aliases": [
+      "wheat flour",
+      "whole wheat flour"
+    ]
+  },
+  {
+    "id": "maida",
+    "name": "Maida",
+    "emoji": "🌾",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 45,
+    "defaultUnit": "kg",
+    "aliases": [
+      "all purpose flour",
+      "plain flour",
+      "flour"
+    ]
+  },
+  {
+    "id": "besan",
+    "name": "Besan",
+    "emoji": "🌾",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 100,
+    "defaultUnit": "kg",
+    "aliases": [
+      "gram flour",
+      "chickpea flour"
+    ]
+  },
+  {
+    "id": "poha",
+    "name": "Poha",
+    "emoji": "🍚",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "pack",
+    "aliases": [
+      "flattened rice",
+      "beaten rice"
+    ]
+  },
+  {
+    "id": "rava",
+    "name": "Rava",
+    "emoji": "🌾",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 50,
+    "defaultUnit": "pack",
+    "aliases": [
+      "sooji",
+      "suji",
+      "semolina"
+    ]
+  },
+  {
+    "id": "oats",
+    "name": "Oats",
+    "emoji": "🥣",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 150,
+    "defaultUnit": "pack",
+    "aliases": [
+      "rolled oats",
+      "oatmeal"
+    ]
+  },
+  {
+    "id": "pasta",
+    "name": "Pasta",
+    "emoji": "🍝",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 120,
+    "defaultUnit": "pack",
+    "aliases": [
+      "penne",
+      "spaghetti",
+      "macaroni"
+    ]
+  },
+  {
+    "id": "noodles",
+    "name": "Noodles",
+    "emoji": "🍜",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 40,
+    "defaultUnit": "pack",
+    "aliases": [
+      "hakka noodles",
+      "maggi",
+      "instant noodles"
+    ]
+  },
+  {
+    "id": "toor-dal",
+    "name": "Toor dal",
+    "emoji": "🫘",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 160,
+    "defaultUnit": "kg",
+    "aliases": [
+      "arhar dal",
+      "dal",
+      "daal",
+      "pigeon peas"
+    ]
+  },
+  {
+    "id": "moong-dal",
+    "name": "Moong dal",
+    "emoji": "🫘",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 140,
+    "defaultUnit": "kg",
+    "aliases": [
+      "yellow moong"
+    ]
+  },
+  {
+    "id": "masoor-dal",
+    "name": "Masoor dal",
+    "emoji": "🫘",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 120,
+    "defaultUnit": "kg",
+    "aliases": [
+      "red lentils",
+      "lentils"
+    ]
+  },
+  {
+    "id": "chana",
+    "name": "Chickpeas",
+    "emoji": "🫘",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 100,
+    "defaultUnit": "kg",
+    "aliases": [
+      "chole",
+      "kabuli chana",
+      "chana"
+    ]
+  },
+  {
+    "id": "rajma",
+    "name": "Rajma",
+    "emoji": "🫘",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 150,
+    "defaultUnit": "kg",
+    "aliases": [
+      "kidney beans"
+    ]
+  },
+  {
+    "id": "quinoa",
+    "name": "Quinoa",
+    "emoji": "🌾",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 300,
+    "defaultUnit": "pack"
+  },
+  {
+    "id": "cornflakes",
+    "name": "Cornflakes",
+    "emoji": "🥣",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 90
+    },
+    "typicalPrice": 180,
+    "defaultUnit": "pack",
+    "aliases": [
+      "cereal"
+    ]
+  },
+  {
+    "id": "vermicelli",
+    "name": "Vermicelli",
+    "emoji": "🍝",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 40,
+    "defaultUnit": "pack",
+    "aliases": [
+      "seviyan",
+      "semiya"
+    ]
+  },
+  {
+    "id": "idli-batter",
+    "name": "Idli batter",
+    "emoji": "🥣",
+    "category": "Grains",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 4
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "pack",
+    "aliases": [
+      "dosa batter",
+      "batter"
+    ]
+  },
+  {
+    "id": "muesli",
+    "name": "Muesli",
+    "emoji": "🥣",
+    "category": "Grains",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 120
+    },
+    "typicalPrice": 350,
+    "defaultUnit": "pack",
+    "aliases": [
+      "granola"
+    ]
+  },
+  {
+    "id": "salt",
+    "name": "Salt",
+    "emoji": "🧂",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 730
+    },
+    "typicalPrice": 25,
+    "defaultUnit": "kg",
+    "aliases": [
+      "namak"
+    ]
+  },
+  {
+    "id": "oil",
+    "name": "Cooking oil",
+    "emoji": "🫗",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 180,
+    "defaultUnit": "l",
+    "aliases": [
+      "oil",
+      "sunflower oil",
+      "vegetable oil"
+    ]
+  },
+  {
+    "id": "black-pepper",
+    "name": "Black pepper",
+    "emoji": "🧂",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 80,
+    "defaultUnit": "pack",
+    "aliases": [
+      "pepper",
+      "kali mirch"
+    ]
+  },
+  {
+    "id": "water",
+    "name": "Water",
+    "emoji": "💧",
+    "category": "Other",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 3650
+    },
+    "typicalPrice": 0,
+    "defaultUnit": "l"
+  },
+  {
+    "id": "turmeric",
+    "name": "Turmeric",
+    "emoji": "🫙",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 40,
+    "defaultUnit": "pack",
+    "aliases": [
+      "haldi"
+    ]
+  },
+  {
+    "id": "chilli-powder",
+    "name": "Red chilli powder",
+    "emoji": "🌶️",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 50,
+    "defaultUnit": "pack",
+    "aliases": [
+      "lal mirch",
+      "chilli powder",
+      "chili powder"
+    ]
+  },
+  {
+    "id": "cumin",
+    "name": "Cumin seeds",
+    "emoji": "🫙",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "pack",
+    "aliases": [
+      "jeera",
+      "cumin"
+    ]
+  },
+  {
+    "id": "mustard-seeds",
+    "name": "Mustard seeds",
+    "emoji": "🫙",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 30,
+    "defaultUnit": "pack",
+    "aliases": [
+      "rai",
+      "sarson"
+    ]
+  },
+  {
+    "id": "garam-masala",
+    "name": "Garam masala",
+    "emoji": "🫙",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 70,
+    "defaultUnit": "pack",
+    "aliases": [
+      "masala"
+    ]
+  },
+  {
+    "id": "coriander-powder",
+    "name": "Coriander powder",
+    "emoji": "🫙",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 40,
+    "defaultUnit": "pack",
+    "aliases": [
+      "dhania powder"
+    ]
+  },
+  {
+    "id": "kasuri-methi",
+    "name": "Kasuri methi",
+    "emoji": "🌿",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 40,
+    "defaultUnit": "pack",
+    "aliases": [
+      "dried fenugreek"
+    ]
+  },
+  {
+    "id": "hing",
+    "name": "Hing",
+    "emoji": "🫙",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "pack",
+    "aliases": [
+      "asafoetida"
+    ]
+  },
+  {
+    "id": "bay-leaf",
+    "name": "Bay leaves",
+    "emoji": "🍃",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 20,
+    "defaultUnit": "pack",
+    "aliases": [
+      "tej patta"
+    ]
+  },
+  {
+    "id": "oregano",
+    "name": "Oregano",
+    "emoji": "🌿",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "pack",
+    "aliases": [
+      "italian herbs",
+      "mixed herbs"
+    ]
+  },
+  {
+    "id": "chilli-flakes",
+    "name": "Chilli flakes",
+    "emoji": "🌶️",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 50,
+    "defaultUnit": "pack",
+    "aliases": [
+      "red pepper flakes"
+    ]
+  },
+  {
+    "id": "ketchup",
+    "name": "Ketchup",
+    "emoji": "🥫",
+    "category": "Condiments",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 180,
+      "Pantry": 90
+    },
+    "typicalPrice": 120,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "tomato ketchup",
+      "tomato sauce"
+    ]
+  },
+  {
+    "id": "soy-sauce",
+    "name": "Soy sauce",
+    "emoji": "🫙",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 90,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "soya sauce"
+    ]
+  },
+  {
+    "id": "mayonnaise",
+    "name": "Mayonnaise",
+    "emoji": "🫙",
+    "category": "Condiments",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 60
+    },
+    "typicalPrice": 110,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "mayo"
+    ]
+  },
+  {
+    "id": "jam",
+    "name": "Jam",
+    "emoji": "🫙",
+    "category": "Condiments",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 90,
+      "Pantry": 180
+    },
+    "typicalPrice": 150,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "jelly",
+      "preserve"
+    ]
+  },
+  {
+    "id": "honey",
+    "name": "Honey",
+    "emoji": "🍯",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 730
+    },
+    "typicalPrice": 250,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "shahad"
+    ]
+  },
+  {
+    "id": "sugar",
+    "name": "Sugar",
+    "emoji": "🍬",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 730
+    },
+    "typicalPrice": 45,
+    "defaultUnit": "kg",
+    "aliases": [
+      "cheeni",
+      "shakkar"
+    ]
+  },
+  {
+    "id": "jaggery",
+    "name": "Jaggery",
+    "emoji": "🍬",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 80,
+    "defaultUnit": "kg",
+    "aliases": [
+      "gur",
+      "gud"
+    ]
+  },
+  {
+    "id": "tamarind",
+    "name": "Tamarind",
+    "emoji": "🫙",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "pack",
+    "aliases": [
+      "imli"
+    ]
+  },
+  {
+    "id": "vinegar",
+    "name": "Vinegar",
+    "emoji": "🫙",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 730
+    },
+    "typicalPrice": 60,
+    "defaultUnit": "pcs"
+  },
+  {
+    "id": "olive-oil",
+    "name": "Olive oil",
+    "emoji": "🫒",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 550,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "extra virgin olive oil"
+    ]
+  },
+  {
+    "id": "peanut-butter",
+    "name": "Peanut butter",
+    "emoji": "🥜",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 250,
+    "defaultUnit": "pcs"
+  },
+  {
+    "id": "pickle",
+    "name": "Pickle",
+    "emoji": "🫙",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 120,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "achaar",
+      "achar"
+    ]
+  },
+  {
+    "id": "green-chutney",
+    "name": "Green chutney",
+    "emoji": "🌿",
+    "category": "Condiments",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 7,
+      "Freezer": 60
+    },
+    "typicalPrice": 40,
+    "defaultUnit": "pack",
+    "aliases": [
+      "hari chutney",
+      "mint chutney"
+    ]
+  },
+  {
+    "id": "tomato-puree",
+    "name": "Tomato puree",
+    "emoji": "🥫",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365,
+      "Fridge": 5
+    },
+    "typicalPrice": 50,
+    "defaultUnit": "pack",
+    "aliases": [
+      "puree",
+      "passata"
+    ]
+  },
+  {
+    "id": "coconut-milk",
+    "name": "Coconut milk",
+    "emoji": "🥥",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365,
+      "Fridge": 4
+    },
+    "typicalPrice": 120,
+    "defaultUnit": "pcs"
+  },
+  {
+    "id": "chilli-sauce",
+    "name": "Chilli sauce",
+    "emoji": "🌶️",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180,
+      "Fridge": 180
+    },
+    "typicalPrice": 80,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "hot sauce",
+      "sriracha"
+    ]
+  },
+  {
+    "id": "pasta-sauce",
+    "name": "Pasta sauce",
+    "emoji": "🥫",
+    "category": "Condiments",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365,
+      "Fridge": 7
+    },
+    "typicalPrice": 250,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "marinara",
+      "arrabbiata sauce"
+    ]
+  },
+  {
+    "id": "peanuts",
+    "name": "Peanuts",
+    "emoji": "🥜",
+    "category": "Other",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 120,
+    "defaultUnit": "pack",
+    "aliases": [
+      "moongfali",
+      "groundnuts"
+    ]
+  },
+  {
+    "id": "cashews",
+    "name": "Cashews",
+    "emoji": "🥜",
+    "category": "Other",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 250,
+    "defaultUnit": "pack",
+    "aliases": [
+      "kaju"
+    ]
+  },
+  {
+    "id": "almonds",
+    "name": "Almonds",
+    "emoji": "🌰",
+    "category": "Other",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 300,
+    "defaultUnit": "pack",
+    "aliases": [
+      "badam"
+    ]
+  },
+  {
+    "id": "raisins",
+    "name": "Raisins",
+    "emoji": "🍇",
+    "category": "Other",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 120,
+    "defaultUnit": "pack",
+    "aliases": [
+      "kishmish"
+    ]
+  },
+  {
+    "id": "tea",
+    "name": "Tea",
+    "emoji": "🍵",
+    "category": "Other",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 200,
+    "defaultUnit": "pack",
+    "aliases": [
+      "chai",
+      "chai patti"
+    ]
+  },
+  {
+    "id": "coffee",
+    "name": "Coffee",
+    "emoji": "☕",
+    "category": "Other",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 365
+    },
+    "typicalPrice": 300,
+    "defaultUnit": "pack",
+    "aliases": [
+      "instant coffee",
+      "filter coffee"
+    ]
+  },
+  {
+    "id": "chocolate",
+    "name": "Chocolate",
+    "emoji": "🍫",
+    "category": "Other",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 180
+    },
+    "typicalPrice": 100,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "dark chocolate"
+    ]
+  },
+  {
+    "id": "biscuits",
+    "name": "Biscuits",
+    "emoji": "🍪",
+    "category": "Other",
+    "defaultLocation": "Pantry",
+    "shelfLifeDays": {
+      "Pantry": 90
+    },
+    "typicalPrice": 40,
+    "defaultUnit": "pack",
+    "aliases": [
+      "cookies"
+    ]
+  },
+  {
+    "id": "orange-juice",
+    "name": "Orange juice",
+    "emoji": "🧃",
+    "category": "Other",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 7,
+      "Freezer": 90
+    },
+    "typicalPrice": 120,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "juice",
+      "oj"
+    ]
+  },
+  {
+    "id": "hummus",
+    "name": "Hummus",
+    "emoji": "🫙",
+    "category": "Other",
+    "defaultLocation": "Fridge",
+    "shelfLifeDays": {
+      "Fridge": 7,
+      "Freezer": 60
+    },
+    "typicalPrice": 200,
+    "defaultUnit": "pack"
+  },
+  {
+    "id": "frozen-peas",
+    "name": "Frozen peas",
+    "emoji": "🫛",
+    "category": "Frozen",
+    "defaultLocation": "Freezer",
+    "shelfLifeDays": {
+      "Freezer": 300
+    },
+    "typicalPrice": 90,
+    "defaultUnit": "pack",
+    "aliases": [
+      "peas",
+      "matar frozen"
+    ]
+  },
+  {
+    "id": "frozen-corn",
+    "name": "Frozen corn",
+    "emoji": "🌽",
+    "category": "Frozen",
+    "defaultLocation": "Freezer",
+    "shelfLifeDays": {
+      "Freezer": 300
+    },
+    "typicalPrice": 100,
+    "defaultUnit": "pack",
+    "aliases": [
+      "corn kernels"
+    ]
+  },
+  {
+    "id": "frozen-paratha",
+    "name": "Frozen parathas",
+    "emoji": "🫓",
+    "category": "Frozen",
+    "defaultLocation": "Freezer",
+    "shelfLifeDays": {
+      "Freezer": 180
+    },
+    "typicalPrice": 120,
+    "defaultUnit": "pack",
+    "aliases": [
+      "paratha",
+      "parathas"
+    ]
+  },
+  {
+    "id": "frozen-mixed-veg",
+    "name": "Frozen mixed veg",
+    "emoji": "🥕",
+    "category": "Frozen",
+    "defaultLocation": "Freezer",
+    "shelfLifeDays": {
+      "Freezer": 300
+    },
+    "typicalPrice": 110,
+    "defaultUnit": "pack",
+    "aliases": [
+      "mixed vegetables",
+      "mixed veg"
+    ]
+  },
+  {
+    "id": "frozen-fries",
+    "name": "Frozen fries",
+    "emoji": "🍟",
+    "category": "Frozen",
+    "defaultLocation": "Freezer",
+    "shelfLifeDays": {
+      "Freezer": 240
+    },
+    "typicalPrice": 150,
+    "defaultUnit": "pack",
+    "aliases": [
+      "french fries",
+      "fries"
+    ]
+  },
+  {
+    "id": "frozen-momos",
+    "name": "Frozen momos",
+    "emoji": "🥟",
+    "category": "Frozen",
+    "defaultLocation": "Freezer",
+    "shelfLifeDays": {
+      "Freezer": 120
+    },
+    "typicalPrice": 180,
+    "defaultUnit": "pack",
+    "aliases": [
+      "momos",
+      "dumplings"
+    ]
+  },
+  {
+    "id": "chicken-nuggets",
+    "name": "Chicken nuggets",
+    "emoji": "🍗",
+    "category": "Frozen",
+    "defaultLocation": "Freezer",
+    "shelfLifeDays": {
+      "Freezer": 180
+    },
+    "typicalPrice": 250,
+    "defaultUnit": "pack",
+    "aliases": [
+      "nuggets"
+    ]
+  },
+  {
+    "id": "frozen-berries",
+    "name": "Frozen berries",
+    "emoji": "🫐",
+    "category": "Frozen",
+    "defaultLocation": "Freezer",
+    "shelfLifeDays": {
+      "Freezer": 270
+    },
+    "typicalPrice": 300,
+    "defaultUnit": "pack",
+    "aliases": [
+      "mixed berries"
+    ]
+  },
+  {
+    "id": "ice-cream",
+    "name": "Ice cream",
+    "emoji": "🍨",
+    "category": "Frozen",
+    "defaultLocation": "Freezer",
+    "shelfLifeDays": {
+      "Freezer": 90
+    },
+    "typicalPrice": 250,
+    "defaultUnit": "pack",
+    "aliases": [
+      "icecream",
+      "kulfi"
+    ]
+  },
+  {
+    "id": "frozen-pizza",
+    "name": "Frozen pizza",
+    "emoji": "🍕",
+    "category": "Frozen",
+    "defaultLocation": "Freezer",
+    "shelfLifeDays": {
+      "Freezer": 120
+    },
+    "typicalPrice": 280,
+    "defaultUnit": "pcs",
+    "aliases": [
+      "pizza"
+    ]
+  },
+  {
+    "id": "frozen-samosa",
+    "name": "Frozen samosas",
+    "emoji": "🥟",
+    "category": "Frozen",
+    "defaultLocation": "Freezer",
+    "shelfLifeDays": {
+      "Freezer": 180
+    },
+    "typicalPrice": 160,
+    "defaultUnit": "pack",
+    "aliases": [
+      "samosa"
+    ]
+  }
+]

@@ -1,0 +1,216 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/inter';
+@import '@fontsource-variable/bricolage-grotesque';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --bg: #f6f1e7;
+  --bg-deep: #efe7d8;
+  --card: #fffcf6;
+  --card-2: #f1eadd;
+  --card-3: #e8dfcf;
+  --ink: #1f1b16;
+  --ink-2: #5a5247;
+  --ink-3: #6f665a;
+  --line: rgb(31 27 22 / 0.08);
+  --line-strong: rgb(31 27 22 / 0.14);
+  --brand: #158543;
+  --brand-strong: #0f6f37;
+  --brand-ink: #ffffff;
+  --brand-soft: #dcf1e2;
+  --brand-soft-ink: #12653a;
+
+  --u-expired: #e5484d;
+  --u-expired-soft: #fde4e3;
+  --u-expired-ink: #b0242a;
+  --u-today: #f2711c;
+  --u-today-soft: #ffe7d4;
+  --u-today-ink: #a9480b;
+  --u-soon: #f0a020;
+  --u-soon-soft: #fff0cf;
+  --u-soon-ink: #8a5900;
+  --u-week: #e2c437;
+  --u-week-soft: #faf3cc;
+  --u-week-ink: #6f5c00;
+  --u-later: #b5ab9c;
+  --u-later-soft: #eee7da;
+  --u-later-ink: #5c554b;
+
+  --frost: #3e8ed0;
+  --frost-soft: #e1eefa;
+  --frost-ink: #1f5f96;
+
+  --shadow-card: 0 1px 1px rgb(60 40 10 / 0.03), 0 8px 24px -14px rgb(60 40 10 / 0.18);
+  --shadow-float: 0 10px 40px -12px rgb(40 28 8 / 0.28), 0 2px 6px rgb(40 28 8 / 0.06);
+  color-scheme: light;
+}
+
+.dark {
+  --bg: #161412;
+  --bg-deep: #100e0d;
+  --card: #211e1b;
+  --card-2: #2a2622;
+  --card-3: #34302b;
+  --ink: #f6f0e6;
+  --ink-2: #b4aa9b;
+  --ink-3: #91887b;
+  --line: rgb(255 240 220 / 0.07);
+  --line-strong: rgb(255 240 220 / 0.13);
+  --brand: #3cc47a;
+  --brand-strong: #5fd892;
+  --brand-ink: #0b1f13;
+  --brand-soft: rgb(60 196 122 / 0.16);
+  --brand-soft-ink: #7fe0a8;
+
+  --u-expired: #ff6369;
+  --u-expired-soft: rgb(255 99 105 / 0.16);
+  --u-expired-ink: #ff9a9e;
+  --u-today: #ff8b3d;
+  --u-today-soft: rgb(255 139 61 / 0.16);
+  --u-today-ink: #ffb07a;
+  --u-soon: #ffb224;
+  --u-soon-soft: rgb(255 178 36 / 0.15);
+  --u-soon-ink: #ffcb6b;
+  --u-week: #f0d553;
+  --u-week-soft: rgb(240 213 83 / 0.13);
+  --u-week-ink: #f3df85;
+  --u-later: #7e7568;
+  --u-later-soft: rgb(255 240 220 / 0.07);
+  --u-later-ink: #c9bfb0;
+
+  --frost: #6cb2ee;
+  --frost-soft: rgb(108 178 238 / 0.15);
+  --frost-ink: #9fcdf5;
+
+  --shadow-card: 0 1px 0 rgb(255 240 220 / 0.04) inset, 0 10px 30px -18px rgb(0 0 0 / 0.6);
+  --shadow-float: 0 12px 40px -10px rgb(0 0 0 / 0.65), 0 0 0 1px rgb(255 240 220 / 0.06);
+  color-scheme: dark;
+}
+
+@theme inline {
+  --font-sans: 'Inter Variable', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Bricolage Grotesque Variable', 'Inter Variable', ui-sans-serif, sans-serif;
+
+  --color-bg: var(--bg);
+  --color-bg-deep: var(--bg-deep);
+  --color-card: var(--card);
+  --color-card-2: var(--card-2);
+  --color-card-3: var(--card-3);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-brand: var(--brand);
+  --color-brand-strong: var(--brand-strong);
+  --color-brand-ink: var(--brand-ink);
+  --color-brand-soft: var(--brand-soft);
+  --color-brand-soft-ink: var(--brand-soft-ink);
+  --color-frost: var(--frost);
+  --color-frost-soft: var(--frost-soft);
+  --color-frost-ink: var(--frost-ink);
+
+  --color-expired: var(--u-expired);
+  --color-expired-soft: var(--u-expired-soft);
+  --color-expired-ink: var(--u-expired-ink);
+  --color-today: var(--u-today);
+  --color-today-soft: var(--u-today-soft);
+  --color-today-ink: var(--u-today-ink);
+  --color-soon: var(--u-soon);
+  --color-soon-soft: var(--u-soon-soft);
+  --color-soon-ink: var(--u-soon-ink);
+  --color-week: var(--u-week);
+  --color-week-soft: var(--u-week-soft);
+  --color-week-ink: var(--u-week-ink);
+  --color-later: var(--u-later);
+  --color-later-soft: var(--u-later-soft);
+  --color-later-ink: var(--u-later-ink);
+
+  --shadow-card: var(--shadow-card);
+  --shadow-float: var(--shadow-float);
+  --radius-card: 26px;
+}
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+    text-size-adjust: 100%;
+  }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--font-sans);
+    font-feature-settings: 'cv11', 'ss01';
+    -webkit-font-smoothing: antialiased;
+    overscroll-behavior-y: none;
+    transition: background-color 0.3s ease;
+  }
+  :focus-visible {
+    outline: 2.5px solid var(--brand);
+    outline-offset: 2px;
+    border-radius: 12px;
+  }
+  button,
+  [role='button'] {
+    cursor: pointer;
+  }
+  button:disabled {
+    cursor: not-allowed;
+  }
+  input,
+  textarea,
+  select {
+    font: inherit;
+  }
+  ::selection {
+    background: var(--brand-soft);
+  }
+}
+
+@utility tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@utility pb-safe {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+@utility card {
+  background: var(--card);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-card);
+  border: 1px solid var(--line);
+}
+
+/* While a sheet is open on phones, toasts move to the top so they never cover its buttons. */
+@media (max-width: 767px) {
+  body[data-scroll-locked] .larder-toaster {
+    bottom: auto;
+    top: max(12px, env(safe-area-inset-top));
+  }
+}
+
+/* Native date input: keep it on-brand. */
+input[type='date']::-webkit-calendar-picker-indicator {
+  opacity: 0.55;
+  cursor: pointer;
+}
+.dark input[type='date']::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+  }
+}
