@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#F6F1E7" />
+    <meta
+      name="description"
+      content="Larder tells you what's about to go bad and what you can cook with it tonight."
+    />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="Larder" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+    <title>Larder</title>
+    <script>
+      // Apply the saved theme before first paint to avoid a flash.
+      try {
+        var s = JSON.parse(localStorage.getItem('larder.v1') || '{}');
+        var t = (s.state && s.state.settings && s.state.settings.theme) || 'system';
+        if (t === 'dark' || (t === 'system' && matchMedia('(prefers-color-scheme: dark)').matches))
+          document.documentElement.classList.add('dark');
+      } catch (e) {}
+    </script>
+    <script type="module" crossorigin src="./assets/index-CpeJfn7h.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/motion-pBA3OMjt.js">
+    <link rel="modulepreload" crossorigin href="./assets/react-Dw7I02PR.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-C8BOrrZ4.css">
+  <link rel="manifest" href="./manifest.webmanifest"></head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
